@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: d11ec727b6388452da091ff14e198501
+timeCreated: 1504168184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gfgameUI_0
+    21300002: gfgameUI_1
+    21300004: gfgameUI_2
+    21300006: gfgameUI_3
+    21300008: gfgameUI_4
+    21300010: gfgameUI_5
+    21300012: gfgameUI_7
+    21300014: gfgameUI_8
+    21300016: gfgameUI_9
+    21300018: gfgameUI_10
+    21300020: gfgameUI_11
+    21300022: gfgameUI_12
+    21300024: gfgameUI_13
+    21300026: gfgameUI_14
+    21300028: gfgameUI_15
+    21300030: gfgameUI_16
+    21300032: gfgameUI_17
+    21300034: gfgameUI_18
+    21300036: gfgameUI_22
+    21300038: gfgameUI_24
+    21300040: gfgameUI_26
+    21300042: gfgameUI_6
+    21300044: gfgameUI_27
+    21300046: gfgameUI_28
+    21300048: gfgameUI_20
+    21300050: gfgameUI_19
+    21300052: gfgameUI_21
+    21300054: gfgameUI_23
+    21300056: gfgameUI_25
+    21300058: gfgameUI_29
+    21300060: gfgameUI_30
+    21300062: gfgameUI_31
+    21300064: gfgameUI_32
+    21300066: gfgameUI_33
+    21300068: gfgameUI_34
+    21300070: gfgameUI_35
+    21300072: gfgameUI_36
+    21300074: gfgameUI_37
+    21300076: gfgameUI_38
+    21300078: gfgameUI_39
+    21300080: gfgameUI_40
+    21300082: gfgameUI_41
+    21300084: gfgameUI_42
+    21300086: gfgameUI_43
+    21300088: gfgameUI_44
+    21300090: gfgameUI_45
+    21300092: gfgameUI_46
+    21300094: gfgameUI_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gfgameUI_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 931
+        width: 251
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 908
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 940
+        width: 267
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 30, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 936
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 898
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 898
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 845
+        width: 157
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 851
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 850
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 858
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 858
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 871
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 870
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 872
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 827
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_16
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 827
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 842
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 474
+        width: 314
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 515
+        width: 296
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 300
+        width: 300
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_26
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 33
+        width: 488
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_6
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 839
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 659
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 693
+        width: 181
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 35, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 477
+        width: 296
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 748
+        width: 161
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 748
+        width: 168
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 743
+        width: 162
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 745
+        width: 168
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 642
+        width: 643
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 834
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_31
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 834
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_32
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 835
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_33
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 839
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 249
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_35
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 831
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 747
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 85
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfgameUI_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 48
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

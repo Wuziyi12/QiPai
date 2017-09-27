@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: c962814bc3b874a21a51f4d94ab82d7d
+timeCreated: 1503388210
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gfmainmenu_0
+    21300002: gfmainmenu_1
+    21300004: gfmainmenu_2
+    21300006: gfmainmenu_3
+    21300008: gfmainmenu_4
+    21300010: gfmainmenu_5
+    21300012: gfmainmenu_6
+    21300014: gfmainmenu_7
+    21300016: gfmainmenu_8
+    21300018: gfmainmenu_9
+    21300020: gfmainmenu_10
+    21300022: gfmainmenu_11
+    21300024: gfmainmenu_12
+    21300026: gfmainmenu_13
+    21300028: gfmainmenu_14
+    21300030: gfmainmenu_15
+    21300032: gfmainmenu_16
+    21300034: gfmainmenu_17
+    21300036: gfmainmenu_18
+    21300038: gfmainmenu_19
+    21300040: gfmainmenu_20
+    21300042: gfmainmenu_21
+    21300044: gfmainmenu_22
+    21300046: gfmainmenu_23
+    21300048: gfmainmenu_24
+    21300050: gfmainmenu_25
+    21300052: gfmainmenu_26
+    21300054: gfmainmenu_27
+    21300056: gfmainmenu_28
+    21300058: gfmainmenu_29
+    21300060: gfmainmenu_30
+    21300062: gfmainmenu_31
+    21300064: gfmainmenu_32
+    21300066: gfmainmenu_33
+    21300068: gfmainmenu_34
+    21300070: gfmainmenu_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gfmainmenu_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1720
+        width: 83
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_2
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1720
+        width: 87
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1719
+        width: 86
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1720
+        width: 87
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_5
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1823
+        width: 151
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_6
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1835
+        width: 293
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_7
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1848
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1816
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1659
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1661
+        width: 754
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_12
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1256
+        width: 757
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1215
+        width: 340
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1219
+        width: 387
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_17
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1219
+        width: 388
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_18
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1155
+        width: 676
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1067
+        width: 292
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1083
+        width: 255
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_21
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1009
+        width: 147
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_22
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1012
+        width: 460
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 937
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156
+        width: 801
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 78
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 78
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 79
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_32
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 89
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_33
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 89
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1766
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1767
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gfmainmenu_35
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 238
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
